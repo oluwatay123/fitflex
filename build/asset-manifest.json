@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1b4722b.css",
+    "main.js": "/static/js/main.8e410a1f.js",
+    "static/media/GYMPICSS.jpg": "/static/media/GYMPICSS.c5b85304ff9b67acb44c.jpg",
+    "static/media/herro2.png": "/static/media/herro2.3aabe948565c0be8cab3.png",
+    "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/heart3.png": "/static/media/heart3.11f29b283a6f52e50949.png",
+    "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/muscle2.png": "/static/media/muscle2.9c29308abe3fb7180d1a.png",
+    "static/media/slim-down.png": "/static/media/slim-down.04aba9c0b0ab53a57bc4.png",
+    "static/media/body.png": "/static/media/body.e89868a65a42c477daa3.png",
+    "static/media/back.png": "/static/media/back.273bb5fa267183996c67.png",
+    "static/media/neck.png": "/static/media/neck.8f4d1121dcd11507ea0c.png",
+    "static/media/chest.png": "/static/media/chest.469919551c6d9c6d37f3.png",
+    "static/media/overweight.png": "/static/media/overweight.d289cb46e9633c985346.png",
+    "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/knee.png": "/static/media/knee.04aab35a88fb34044acf.png",
+    "static/media/healthy.png": "/static/media/healthy.9343f93bce37d792e548.png",
+    "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/underweight.png": "/static/media/underweight.59ea1528911569173fa9.png",
+    "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/index.html",
+    "main.c1b4722b.css.map": "/static/css/main.c1b4722b.css.map",
+    "main.8e410a1f.js.map": "/static/js/main.8e410a1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1b4722b.css",
+    "static/js/main.8e410a1f.js"
+  ]
+}
