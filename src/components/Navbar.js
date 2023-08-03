@@ -61,10 +61,16 @@ const onlogout = async () => {
 
         <Nav className="mr-auto smallScreen" style={{ background:"#fff", height:`${show ? active : hide}`, overflow:'hidden',textDecoration:"none", transition:"height 0.5s", justifyContent:"space-around", alignItems:"center", width:"85%", marginLeft:'5px', marginRight:'5px'}}>
         <Nav.Link style={{color:"red"}} href="/"><FaHome style={{transform:"translateY(-5px)"}}/>Home</Nav.Link>
-          <Nav.Link  style={{color:"red"}}href="#"><FaRobot/>Chatbot</Nav.Link>
-          <Nav.Link style={{color:"red"}}href="#"><FaCalculator/>IBM calculator</Nav.Link>
+          <Nav.Link  style={{color:"red"}}href="Chatbot"><FaRobot/>Chatbot</Nav.Link>
+          <Nav.Link style={{color:"red"}}href=" Bmicalculator"><FaCalculator/>IBM calculator</Nav.Link>
+          <Nav.Link href="Userprofile"> <img
+    style={{ transform: "translateX(220px)" }}
+    class="chat-avatar"
+    src={avatar}
+    alt="C"
+    /></Nav.Link>
 
-          {/* <Nav.Link  style={{color:"red"}}href="#"><FaClock/>Tracker</Nav.Link> */}
+{/* <Nav.Link  style={{color:"red"}}href="#"><FaClock/>Tracker</Nav.Link> */}
           {/* <img src={<FaIcons/>} /> */}
           {user ? (
           
